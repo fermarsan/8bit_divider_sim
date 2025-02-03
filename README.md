@@ -13,9 +13,9 @@ This example implements a digital 8-bit sequential divider simulation on [SimulI
 - FSM Finite State Machine as control block (script) [readme file](/FSM/README.md)
 
 ![](assets/Divider.png)
-you can also see this [tutorial](https://youtu.be/PAcU9CNJh7A?si=TVzpL2JlhtzKox_8) (spanish).
+you can also see this [tutorial](https://youtu.be/PAcU9CNJh7A?si=TVzpL2JlhtzKox_8) (spanish) about a similar circuit.
 
-This is done as example/template for doing similar digital simulation on _SimulIDE_
+This is done as a teaching exercise in _SimulIDE_, for users to implement the Control Unit (FSM) of the divider by themselves.
 
 
 ## Usage 
