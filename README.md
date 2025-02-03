@@ -14,7 +14,6 @@ This example implements a digital 8-bit sequential divider simulation on [SimulI
 
 ![](assets/Divider.png)
 
-![](assets/Divider.png)
 you can also see this [tutorial](https://youtu.be/PAcU9CNJh7A?si=TVzpL2JlhtzKox_8) (spanish) about a similar circuit.
 
 This is done as a teaching exercise in _SimulIDE_, for users to implement the Control Unit (FSM) of the divider by themselves.
