@@ -10,7 +10,7 @@ This example implements a digital 8-bit sequential divider simulation on [SimulI
 - 8-bit 2 inputs selector/multiplexer
 - 8-bit Two's complement module
 - 4-bit down counter
-- FSM Finite State Machine as control block (script) [readme file](/FSM/README.md)
+- FSM Finite State Machine as control block (script) [readme file (similar example)](/FSM/README.md)
 
 ![](assets/Divider.png)
 you can also see this [tutorial](https://youtu.be/PAcU9CNJh7A?si=TVzpL2JlhtzKox_8) (spanish) about a similar circuit.
