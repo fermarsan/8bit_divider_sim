@@ -22,5 +22,7 @@ This is done as a teaching exercise in _SimulIDE_, for users to implement the Co
 ## Usage 
 You have to copy all the component's folders inside a one in the user data folder, for instance `~/User_data/test`and associate it in Simulide.
 You can see how to do this in the official SimulIDE's Tutorials:
-[User data folder SimulIDE 1.1.0](https://www.youtube.com/watch?v=pAU7fdUWCqs)
-[Crear Componentes SimulIDE 1.1.0 ](https://www.youtube.com/watch?v=LBknR6y5Qho) (Spanish)
+
+- [User data folder SimulIDE 1.1.0](https://www.youtube.com/watch?v=pAU7fdUWCqs)
+
+- [Crear Componentes SimulIDE 1.1.0 ](https://www.youtube.com/watch?v=LBknR6y5Qho) (Spanish)
